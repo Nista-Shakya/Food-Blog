@@ -1,0 +1,2028 @@
+# Copyright (C) 2020 ACF Frontend Form Element  Pro
+# This file is distributed under the same license as the ACF Frontend Form Element package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ACF Frontend Form Element 2.3.26\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/frontend-admin\n"
+"POT-Creation-Date: 2020-05-06 09:22:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Shabti Kaplan <shabti@frontendform.com>\n"
+"Language-Team: Shabti Kaplan <shabti@frontendform.com>\n"
+
+#: frontend-admin/actions/email.php:25 frontend-admin/actions/user.php:130
+msgid "Email"
+msgstr ""
+
+#: frontend-admin/actions/email.php:49
+msgid "Email Shortcodes"
+msgstr ""
+
+#: frontend-admin/actions/email.php:58
+msgid "Custom Field"
+msgstr ""
+
+#: frontend-admin/actions/email.php:69 frontend-admin/actions/post.php:58
+#: frontend-admin/actions/post.php:60 frontend-admin/actions/post.php:80
+msgid "Post Title"
+msgstr ""
+
+#: frontend-admin/actions/email.php:79 frontend-admin/actions/post.php:98
+msgid "Post Content"
+msgstr ""
+
+#: frontend-admin/actions/email.php:89 frontend-admin/actions/post.php:133
+msgid "Post Excerpt"
+msgstr ""
+
+#: frontend-admin/actions/email.php:99 frontend-admin/actions/post.php:116
+msgid "Featured Image"
+msgstr ""
+
+#: frontend-admin/actions/email.php:109
+msgid "Post URL"
+msgstr ""
+
+#: frontend-admin/actions/email.php:119 frontend-admin/actions/user.php:49
+msgid "Username"
+msgstr ""
+
+#: frontend-admin/actions/email.php:129
+msgid "User Email"
+msgstr ""
+
+#: frontend-admin/actions/email.php:139
+msgid "User First Name"
+msgstr ""
+
+#: frontend-admin/actions/email.php:149
+msgid "User Last Name"
+msgstr ""
+
+#: frontend-admin/actions/email.php:161 frontend-admin/actions/email.php:163
+#: frontend-admin/actions/email.php:164
+msgid "Email Name"
+msgstr ""
+
+#: frontend-admin/actions/email.php:166
+msgid "Give this email an identifier"
+msgstr ""
+
+#: frontend-admin/actions/email.php:175
+msgid "To"
+msgstr ""
+
+#: frontend-admin/actions/email.php:187 frontend-admin/actions/email.php:208
+#: frontend-admin/actions/email.php:229
+msgid "Separate emails with commas. <br> To display the names and addresses, use the following format: Name&lt;address&gt;."
+msgstr ""
+
+#: frontend-admin/actions/email.php:197
+msgid "Cc"
+msgstr ""
+
+#: frontend-admin/actions/email.php:218
+msgid "Bcc"
+msgstr ""
+
+#: frontend-admin/actions/email.php:250
+msgid "From"
+msgstr ""
+
+#: frontend-admin/actions/email.php:257
+msgid "From Email"
+msgstr ""
+
+#: frontend-admin/actions/email.php:268
+msgid "From Name"
+msgstr ""
+
+#: frontend-admin/actions/email.php:281
+msgid "Reply-To"
+msgstr ""
+
+#: frontend-admin/actions/email.php:288
+msgid "Reply-To Email"
+msgstr ""
+
+#: frontend-admin/actions/email.php:298
+msgid "Reply-To Name"
+msgstr ""
+
+#: frontend-admin/actions/email.php:319
+msgid "Subject"
+msgstr ""
+
+#: frontend-admin/actions/email.php:321
+msgid "New message from [acf name=\"_username\"]"
+msgstr ""
+
+#: frontend-admin/actions/email.php:330
+msgid "Message"
+msgstr ""
+
+#: frontend-admin/actions/email.php:342
+msgid "Meta Data"
+msgstr ""
+
+#: frontend-admin/actions/email.php:356 frontend-admin/actions/email.php:580
+msgid "Date"
+msgstr ""
+
+#: frontend-admin/actions/email.php:357 frontend-admin/actions/email.php:586
+msgid "Time"
+msgstr ""
+
+#: frontend-admin/actions/email.php:358 frontend-admin/actions/email.php:593
+msgid "User Agent"
+msgstr ""
+
+#: frontend-admin/actions/email.php:359 frontend-admin/actions/email.php:600
+msgid "Remote IP"
+msgstr ""
+
+#: frontend-admin/actions/email.php:360
+msgid "Credit"
+msgstr ""
+
+#: frontend-admin/actions/email.php:369
+msgid "Send As"
+msgstr ""
+
+#: frontend-admin/actions/email.php:374
+msgid "HTML"
+msgstr ""
+
+#: frontend-admin/actions/email.php:375
+msgid "Plain"
+msgstr ""
+
+#: frontend-admin/actions/email.php:383 frontend-admin/widgets/frontend-admin.php:214
+msgid "Emails"
+msgstr ""
+
+#. translators: %s: Site title.
+
+#: frontend-admin/actions/email.php:420
+msgid "New message from \"%s\""
+msgstr ""
+
+#: frontend-admin/actions/email.php:606
+msgid "Powered by"
+msgstr ""
+
+#: frontend-admin/actions/email.php:607 frontend-admin.php:222 frontend-admin.php:245
+msgid "ACF Frontend"
+msgstr ""
+
+#: frontend-admin/actions/options.php:21 frontend-admin/classes/multi_step.php:390
+msgid "Options"
+msgstr ""
+
+#: frontend-admin/actions/options.php:51
+msgid "Site Title Field"
+msgstr ""
+
+#: frontend-admin/actions/options.php:56
+msgid "Default Site Title Field"
+msgstr ""
+
+#: frontend-admin/actions/options.php:57 frontend-admin/actions/options.php:73
+#: frontend-admin/actions/options.php:88 frontend-admin/actions/post.php:48
+#: frontend-admin/actions/post.php:93 frontend-admin/actions/post.php:110
+#: frontend-admin/actions/post.php:128 frontend-admin/actions/post.php:144
+#: frontend-admin/actions/post.php:161 frontend-admin/actions/product.php:47
+#: frontend-admin/actions/product.php:89 frontend-admin/actions/product.php:106
+#: frontend-admin/actions/product.php:122 frontend-admin/actions/product.php:138
+#: frontend-admin/actions/product.php:154 frontend-admin/actions/product.php:171
+#: frontend-admin/actions/product.php:330 frontend-admin/actions/product.php:345
+#: frontend-admin/actions/user.php:45 frontend-admin/actions/user.php:68
+#: frontend-admin/actions/user.php:126 frontend-admin/actions/user.php:148
+#: frontend-admin/actions/user.php:170 frontend-admin/actions/user.php:192
+#: frontend-admin/actions/user.php:214
+msgid "None/Custom"
+msgstr ""
+
+#: frontend-admin/actions/options.php:62
+msgid "Site Title"
+msgstr ""
+
+#: frontend-admin/actions/options.php:67
+msgid "Site Tagline Field"
+msgstr ""
+
+#: frontend-admin/actions/options.php:72
+msgid "Default Site Tagline Field"
+msgstr ""
+
+#: frontend-admin/actions/options.php:77
+msgid "Site Tagline"
+msgstr ""
+
+#: frontend-admin/actions/options.php:82
+msgid "Site Logo Field"
+msgstr ""
+
+#: frontend-admin/actions/options.php:87
+msgid "Default Site Logo Field"
+msgstr ""
+
+#: frontend-admin/actions/options.php:92
+msgid "Site Logo"
+msgstr ""
+
+#: frontend-admin/actions/post.php:23 frontend-admin/actions/post.php:328
+#: frontend-admin/actions/post.php:342 frontend-admin/classes/multi_step.php:298
+msgid "Post"
+msgstr ""
+
+#: frontend-admin/actions/post.php:32
+msgid "Post Fields"
+msgstr ""
+
+#: frontend-admin/actions/post.php:41
+msgid "Post Title Field"
+msgstr ""
+
+#: frontend-admin/actions/post.php:46
+msgid "Default Post Title Field"
+msgstr ""
+
+#: frontend-admin/actions/post.php:47 frontend-admin/actions/product.php:46
+msgid "Custom Structure"
+msgstr ""
+
+#: frontend-admin/actions/post.php:56 frontend-admin/actions/product.php:54
+msgid "Title Structure"
+msgstr ""
+
+#: frontend-admin/actions/post.php:59 frontend-admin/actions/product.php:57
+msgid "Structure the title field. You can use shortcodes for text fields. Foe example: [acf name=\"text\"]"
+msgstr ""
+
+#: frontend-admin/actions/post.php:70 frontend-admin/actions/product.php:68
+msgid "Set as Slug"
+msgstr ""
+
+#: frontend-admin/actions/post.php:72 frontend-admin/actions/post.php:233
+#: frontend-admin/actions/post.php:444 frontend-admin/actions/post.php:483
+#: frontend-admin/actions/product.php:70 frontend-admin/actions/product.php:242
+#: frontend-admin/actions/user.php:80 frontend-admin/actions/user.php:418
+#: frontend-admin/classes/action_base.php:54
+#: frontend-admin/classes/limit_submit.php:88
+#: frontend-admin/classes/multi_step.php:153
+#: frontend-admin/classes/style_tab.php:2002
+#: frontend-admin/widgets/frontend-admin.php:500
+#: frontend-admin/widgets/frontend-admin.php:558
+msgid "Yes"
+msgstr ""
+
+#: frontend-admin/actions/post.php:73 frontend-admin/actions/post.php:234
+#: frontend-admin/actions/post.php:445 frontend-admin/actions/post.php:484
+#: frontend-admin/actions/product.php:71 frontend-admin/actions/product.php:243
+#: frontend-admin/actions/user.php:81 frontend-admin/actions/user.php:419
+#: frontend-admin/classes/action_base.php:55
+#: frontend-admin/classes/limit_submit.php:89
+#: frontend-admin/classes/multi_step.php:154
+#: frontend-admin/classes/style_tab.php:2003
+#: frontend-admin/widgets/frontend-admin.php:501
+#: frontend-admin/widgets/frontend-admin.php:559
+msgid "No"
+msgstr ""
+
+#: frontend-admin/actions/post.php:87
+msgid "Post Content Field"
+msgstr ""
+
+#: frontend-admin/actions/post.php:92
+msgid "Default Post Content Field"
+msgstr ""
+
+#: frontend-admin/actions/post.php:104
+msgid "Post Featured Image Field"
+msgstr ""
+
+#: frontend-admin/actions/post.php:109
+msgid "Default Featured Image Field"
+msgstr ""
+
+#: frontend-admin/actions/post.php:122
+msgid "Post Excerpt Field"
+msgstr ""
+
+#: frontend-admin/actions/post.php:127
+msgid "Default Post Excerpt Field"
+msgstr ""
+
+#: frontend-admin/actions/post.php:138
+msgid "Post Categories Field"
+msgstr ""
+
+#: frontend-admin/actions/post.php:143 frontend-admin/actions/product.php:153
+msgid "Default Categories Field"
+msgstr ""
+
+#: frontend-admin/actions/post.php:149
+msgid "Categories"
+msgstr ""
+
+#: frontend-admin/actions/post.php:155
+msgid "Post Tags Field"
+msgstr ""
+
+#: frontend-admin/actions/post.php:160 frontend-admin/actions/product.php:170
+msgid "Default Tags Field"
+msgstr ""
+
+#: frontend-admin/actions/post.php:165
+msgid "Tags"
+msgstr ""
+
+#: frontend-admin/actions/post.php:202 frontend-admin/classes/multi_step.php:320
+msgid "Post Settings"
+msgstr ""
+
+#: frontend-admin/actions/post.php:210 frontend-admin/classes/multi_step.php:328
+msgid "Post Status"
+msgstr ""
+
+#: frontend-admin/actions/post.php:215 frontend-admin/actions/product.php:224
+#: frontend-admin/classes/multi_step.php:333
+msgid "Draft"
+msgstr ""
+
+#: frontend-admin/actions/post.php:216 frontend-admin/actions/product.php:225
+#: frontend-admin/classes/multi_step.php:334
+msgid "Private"
+msgstr ""
+
+#: frontend-admin/actions/post.php:217 frontend-admin/actions/product.php:226
+#: frontend-admin/classes/multi_step.php:335
+msgid "Pending Review"
+msgstr ""
+
+#: frontend-admin/actions/post.php:218 frontend-admin/actions/product.php:227
+#: frontend-admin/classes/multi_step.php:336
+msgid "Published"
+msgstr ""
+
+#: frontend-admin/actions/post.php:231
+msgid "Delete Post Option"
+msgstr ""
+
+#: frontend-admin/actions/post.php:245 frontend-admin/actions/product.php:254
+#: frontend-admin/widgets/delete-post.php:106
+msgid "Delete Button Text"
+msgstr ""
+
+#: frontend-admin/actions/post.php:247 frontend-admin/actions/post.php:248
+#: frontend-admin/actions/product.php:256 frontend-admin/actions/product.php:257
+#: frontend-admin/widgets/delete-post.php:108
+#: frontend-admin/widgets/delete-post.php:109
+msgid "Delete"
+msgstr ""
+
+#: frontend-admin/actions/post.php:258 frontend-admin/actions/product.php:267
+#: frontend-admin/widgets/delete-post.php:115
+msgid "Confirm Delete Message"
+msgstr ""
+
+#: frontend-admin/actions/post.php:260 frontend-admin/actions/post.php:261
+#: frontend-admin/widgets/delete-post.php:117
+#: frontend-admin/widgets/delete-post.php:118
+msgid "The post will be deleted. Are you sure?"
+msgstr ""
+
+#: frontend-admin/actions/post.php:297
+msgid "Post To Edit"
+msgstr ""
+
+#: frontend-admin/actions/post.php:301
+msgid "Current Post"
+msgstr ""
+
+#: frontend-admin/actions/post.php:302
+msgid "Url Query"
+msgstr ""
+
+#: frontend-admin/actions/post.php:303
+msgid "Select Post"
+msgstr ""
+
+#: frontend-admin/actions/post.php:313 frontend-admin/actions/user.php:314
+#: frontend-admin/actions/user.php:325
+msgid "URL Query"
+msgstr ""
+
+#: frontend-admin/actions/post.php:315 frontend-admin/actions/post.php:316
+msgid "post_id"
+msgstr ""
+
+#: frontend-admin/actions/post.php:317
+msgid "Enter the URL query parameter containing the id of the post you want to edit"
+msgstr ""
+
+#: frontend-admin/actions/post.php:330 frontend-admin/actions/product.php:375
+#: frontend-admin/actions/term.php:89 frontend-admin/actions/user.php:342
+#: frontend-admin/classes/limit_submit.php:114
+msgid "18"
+msgstr ""
+
+#: frontend-admin/actions/post.php:331
+msgid "Enter the post ID"
+msgstr ""
+
+#: frontend-admin/actions/post.php:372
+msgid "New Post Type"
+msgstr ""
+
+#: frontend-admin/actions/post.php:385
+msgid "New Post Terms"
+msgstr ""
+
+#: frontend-admin/actions/post.php:390 frontend-admin/actions/product.php:421
+#: frontend-admin/actions/term.php:75
+msgid "Current Term"
+msgstr ""
+
+#: frontend-admin/actions/post.php:391 frontend-admin/actions/product.php:422
+#: frontend-admin/actions/term.php:76
+msgid "Select Term"
+msgstr ""
+
+#: frontend-admin/actions/post.php:402 frontend-admin/actions/post.php:416
+#: frontend-admin/actions/product.php:433 frontend-admin/actions/product.php:447
+msgid "Terms"
+msgstr ""
+
+#: frontend-admin/actions/post.php:404 frontend-admin/actions/product.php:435
+#: frontend-admin/widgets/frontend-admin.php:450
+#: frontend-admin/widgets/delete-post.php:165
+msgid "18, 12, 11"
+msgstr ""
+
+#: frontend-admin/actions/post.php:405 frontend-admin/actions/product.php:436
+msgid "Enter the a comma-seperated list of term ids"
+msgstr ""
+
+#: frontend-admin/actions/post.php:442
+msgid "Show Saved Drafts Selection"
+msgstr ""
+
+#: frontend-admin/actions/post.php:455
+msgid "Edit Draft Text"
+msgstr ""
+
+#: frontend-admin/actions/post.php:457 frontend-admin/actions/post.php:458
+msgid "Edit a draft"
+msgstr ""
+
+#: frontend-admin/actions/post.php:468
+msgid "New Draft Text"
+msgstr ""
+
+#: frontend-admin/actions/post.php:470 frontend-admin/actions/post.php:471
+msgid "&mdash; New Post &mdash;"
+msgstr ""
+
+#: frontend-admin/actions/post.php:481
+msgid "Save As Draft Option"
+msgstr ""
+
+#: frontend-admin/actions/post.php:495
+msgid "Save Draft Text"
+msgstr ""
+
+#: frontend-admin/actions/post.php:497
+msgid "Save as Draft"
+msgstr ""
+
+#: frontend-admin/actions/post.php:498
+msgid "save as Draft"
+msgstr ""
+
+#: frontend-admin/actions/post.php:512
+msgid "Save Draft Description"
+msgstr ""
+
+#: frontend-admin/actions/post.php:514
+msgid "Want to finish later?"
+msgstr ""
+
+#: frontend-admin/actions/product.php:23 frontend-admin/actions/product.php:373
+#: frontend-admin/actions/product.php:387
+msgid "Product"
+msgstr ""
+
+#: frontend-admin/actions/product.php:31
+msgid "Product Fields"
+msgstr ""
+
+#: frontend-admin/actions/product.php:40
+msgid "Title Field"
+msgstr ""
+
+#: frontend-admin/actions/product.php:45
+msgid "Default Product Title Field"
+msgstr ""
+
+#: frontend-admin/actions/product.php:56 frontend-admin/actions/product.php:58
+#: frontend-admin/actions/product.php:78
+msgid "Product Title"
+msgstr ""
+
+#: frontend-admin/actions/product.php:83
+msgid "Description Field"
+msgstr ""
+
+#: frontend-admin/actions/product.php:88
+msgid "Default Product Description Field"
+msgstr ""
+
+#: frontend-admin/actions/product.php:94
+msgid "Product Content"
+msgstr ""
+
+#: frontend-admin/actions/product.php:100
+msgid "Main Image Field"
+msgstr ""
+
+#: frontend-admin/actions/product.php:105
+msgid "Default Image Field"
+msgstr ""
+
+#: frontend-admin/actions/product.php:111
+msgid "Product Main Image"
+msgstr ""
+
+#: frontend-admin/actions/product.php:116
+msgid "Product Images Field"
+msgstr ""
+
+#: frontend-admin/actions/product.php:121
+msgid "Default Product Images Field"
+msgstr ""
+
+#: frontend-admin/actions/product.php:127
+msgid "Product Images"
+msgstr ""
+
+#: frontend-admin/actions/product.php:132
+msgid "Short Description Field"
+msgstr ""
+
+#: frontend-admin/actions/product.php:137
+msgid "Default Short Description Field"
+msgstr ""
+
+#: frontend-admin/actions/product.php:143
+msgid "Product Short Description"
+msgstr ""
+
+#: frontend-admin/actions/product.php:148
+msgid "Categories Field"
+msgstr ""
+
+#: frontend-admin/actions/product.php:159
+msgid "Product Categories"
+msgstr ""
+
+#: frontend-admin/actions/product.php:165
+msgid "Tags Field"
+msgstr ""
+
+#: frontend-admin/actions/product.php:175
+msgid "Product Tags"
+msgstr ""
+
+#: frontend-admin/actions/product.php:211
+msgid "Product Settings"
+msgstr ""
+
+#: frontend-admin/actions/product.php:219
+msgid "Product Status"
+msgstr ""
+
+#: frontend-admin/actions/product.php:240
+msgid "Delete Product Option"
+msgstr ""
+
+#: frontend-admin/actions/product.php:270 frontend-admin/actions/product.php:271
+msgid "The product will be deleted. Are you sure?"
+msgstr ""
+
+#: frontend-admin/actions/product.php:324
+msgid "Price Field"
+msgstr ""
+
+#: frontend-admin/actions/product.php:329
+msgid "Default Product Price Field"
+msgstr ""
+
+#: frontend-admin/actions/product.php:334
+msgid "Product Price"
+msgstr ""
+
+#: frontend-admin/actions/product.php:339
+msgid "Sale Price Field"
+msgstr ""
+
+#: frontend-admin/actions/product.php:344
+msgid "Default Sale Price Field"
+msgstr ""
+
+#: frontend-admin/actions/product.php:349
+msgid "Sale Price"
+msgstr ""
+
+#: frontend-admin/actions/product.php:356
+msgid "Product To Edit"
+msgstr ""
+
+#: frontend-admin/actions/product.php:360
+msgid "Current Product"
+msgstr ""
+
+#: frontend-admin/actions/product.php:361
+msgid "Select Product"
+msgstr ""
+
+#: frontend-admin/actions/product.php:376
+msgid "Enter the product ID"
+msgstr ""
+
+#: frontend-admin/actions/product.php:416
+msgid "New Product Terms"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:25
+msgid "Stripe"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:49
+msgid "Card Number Label"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:51 frontend-admin/actions/stripe.php:52
+msgid "Card Number"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:58
+msgid "Card Number Placeholder"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:60 frontend-admin/actions/stripe.php:61
+msgid "•••• •••• •••• ••••"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:67 frontend-admin/actions/stripe.php:114
+#: frontend-admin/actions/stripe.php:161 frontend-admin/actions/stripe.php:208
+msgid "Field Width"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:96
+msgid "Card Name Label"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:98 frontend-admin/actions/stripe.php:99
+msgid "Card Name"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:105
+msgid "Card Name Place"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:107 frontend-admin/actions/stripe.php:108
+msgid "Full Name"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:143
+msgid "Card Expiration Label"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:145 frontend-admin/actions/stripe.php:146
+msgid "Card Expiration"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:152
+msgid "Card Expiration Placceholder"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:154 frontend-admin/actions/stripe.php:155
+msgid "••/••"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:190
+msgid "Card CVC Label"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:192 frontend-admin/actions/stripe.php:193
+msgid "Card CVC"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:199
+msgid "Card CVC Placeholder"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:201 frontend-admin/actions/stripe.php:202
+msgid "•••"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:239
+msgid "Amount To Charge"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:242
+msgid "20"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:243
+msgid "Must be equal to or greater than 50 cents in USD"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:251
+msgid "Currency"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:253 frontend-admin/actions/stripe.php:254
+msgid "USD"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:264
+msgid "<p><a target=\"_blank\" href=\"https://stripe.com/docs/currencies/\">Click here</a> to learn about Stripe's supported currencies.</p>"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:271
+msgid "Purchase Description"
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:284
+msgid "Thank you for your payment."
+msgstr ""
+
+#: frontend-admin/actions/stripe.php:288
+msgid "Preview not available"
+msgstr ""
+
+#: frontend-admin/actions/term.php:23 frontend-admin/actions/term.php:87
+#: frontend-admin/actions/term.php:101
+msgid "Term"
+msgstr ""
+
+#: frontend-admin/actions/term.php:43 frontend-admin/actions/term.php:58
+msgid "Term Name Field"
+msgstr ""
+
+#: frontend-admin/actions/term.php:48
+msgid "Default Term Name Field"
+msgstr ""
+
+#: frontend-admin/actions/term.php:49
+msgid "Custom ACF Field"
+msgstr ""
+
+#: frontend-admin/actions/term.php:50 frontend-admin/classes/multi_step.php:30
+#: frontend-admin/widgets/frontend-admin.php:159
+#: frontend-admin/widgets/frontend-admin.php:197
+msgid "None"
+msgstr ""
+
+#: frontend-admin/actions/term.php:71
+msgid "Term To Edit"
+msgstr ""
+
+#: frontend-admin/actions/term.php:90
+msgid "Enter term id"
+msgstr ""
+
+#: frontend-admin/actions/user.php:23 frontend-admin/actions/user.php:340
+#: frontend-admin/actions/user.php:355 frontend-admin/classes/multi_step.php:351
+msgid "User"
+msgstr ""
+
+#: frontend-admin/actions/user.php:31
+msgid "User Fields"
+msgstr ""
+
+#: frontend-admin/actions/user.php:39
+msgid "Username Field"
+msgstr ""
+
+#: frontend-admin/actions/user.php:44
+msgid "Default Username Field"
+msgstr ""
+
+#: frontend-admin/actions/user.php:62
+msgid "Password Field"
+msgstr ""
+
+#: frontend-admin/actions/user.php:67
+msgid "Default Password Field"
+msgstr ""
+
+#: frontend-admin/actions/user.php:73
+msgid "Password"
+msgstr ""
+
+#: frontend-admin/actions/user.php:78
+msgid "Confirm and Force Strong"
+msgstr ""
+
+#: frontend-admin/actions/user.php:88
+msgid "Confirm Password"
+msgstr ""
+
+#: frontend-admin/actions/user.php:93
+msgid "Password Strength"
+msgstr ""
+
+#: frontend-admin/actions/user.php:98
+msgid "Very Weak"
+msgstr ""
+
+#: frontend-admin/actions/user.php:99
+msgid "Weak"
+msgstr ""
+
+#: frontend-admin/actions/user.php:100
+msgid "Medium"
+msgstr ""
+
+#: frontend-admin/actions/user.php:101
+msgid "Strong"
+msgstr ""
+
+#: frontend-admin/actions/user.php:120
+msgid "Email Field"
+msgstr ""
+
+#: frontend-admin/actions/user.php:125
+msgid "Default Email Field"
+msgstr ""
+
+#: frontend-admin/actions/user.php:142
+msgid "First Name Field"
+msgstr ""
+
+#: frontend-admin/actions/user.php:147
+msgid "Default First Name Field"
+msgstr ""
+
+#: frontend-admin/actions/user.php:152
+msgid "First Name"
+msgstr ""
+
+#: frontend-admin/actions/user.php:164
+msgid "Last Name Field"
+msgstr ""
+
+#: frontend-admin/actions/user.php:169
+msgid "Default Last Name Field"
+msgstr ""
+
+#: frontend-admin/actions/user.php:174
+msgid "Last Name"
+msgstr ""
+
+#: frontend-admin/actions/user.php:186
+msgid "Biographical Info Field"
+msgstr ""
+
+#: frontend-admin/actions/user.php:191
+msgid "Default Bio Field"
+msgstr ""
+
+#: frontend-admin/actions/user.php:196
+msgid "Bio"
+msgstr ""
+
+#: frontend-admin/actions/user.php:208
+msgid "Role Field"
+msgstr ""
+
+#: frontend-admin/actions/user.php:213
+msgid "Default Role Field"
+msgstr ""
+
+#: frontend-admin/actions/user.php:218
+msgid "Role"
+msgstr ""
+
+#: frontend-admin/actions/user.php:222
+msgid "Roles to choose From"
+msgstr ""
+
+#: frontend-admin/actions/user.php:238
+msgid "Default Role Option"
+msgstr ""
+
+#: frontend-admin/actions/user.php:291 frontend-admin/classes/multi_step.php:373
+msgid "User Settings"
+msgstr ""
+
+#: frontend-admin/actions/user.php:309
+msgid "User To Edit"
+msgstr ""
+
+#: frontend-admin/actions/user.php:313
+msgid "Current User"
+msgstr ""
+
+#: frontend-admin/actions/user.php:315
+msgid "Select User"
+msgstr ""
+
+#: frontend-admin/actions/user.php:327 frontend-admin/actions/user.php:328
+msgid "user_id"
+msgstr ""
+
+#: frontend-admin/actions/user.php:329
+msgid "Enter the URL query parameter containing the id of the user you want to edit"
+msgstr ""
+
+#: frontend-admin/actions/user.php:344
+msgid "Enter user id"
+msgstr ""
+
+#: frontend-admin/actions/user.php:376
+msgid "New User Role"
+msgstr ""
+
+#: frontend-admin/actions/user.php:390
+msgid "Hide WordPress Admin Area?"
+msgstr ""
+
+#: frontend-admin/actions/user.php:392 frontend-admin/widgets/frontend-admin.php:585
+#: frontend-admin/widgets/frontend-admin.php:615
+#: frontend-admin/widgets/frontend-admin.php:647
+msgid "Hide"
+msgstr ""
+
+#: frontend-admin/actions/user.php:393 frontend-admin/widgets/frontend-admin.php:584
+#: frontend-admin/widgets/frontend-admin.php:614
+#: frontend-admin/widgets/frontend-admin.php:648
+msgid "Show"
+msgstr ""
+
+#: frontend-admin/actions/user.php:416
+msgid "Log in as new user?"
+msgstr ""
+
+#: frontend-admin/actions/user.php:430
+msgid "Managing User"
+msgstr ""
+
+#: frontend-admin/actions/user.php:433
+msgid "Who will be in charge of editing this user's data? Options include current post author or a custom field name. "
+msgstr ""
+
+#: frontend-admin/classes/action_base.php:26
+msgid "Label"
+msgstr ""
+
+#: frontend-admin/classes/action_base.php:40
+msgid "Title Instructions"
+msgstr ""
+
+#: frontend-admin/classes/action_base.php:52
+msgid "Required"
+msgstr ""
+
+#: frontend-admin/classes/action_base.php:67
+#: frontend-admin/classes/style_tab.php:1532
+msgid "Width"
+msgstr ""
+
+#: frontend-admin/classes/limit_submit.php:23
+msgid "Limit Reached Message"
+msgstr ""
+
+#: frontend-admin/classes/limit_submit.php:28
+msgid "Limit Message"
+msgstr ""
+
+#: frontend-admin/classes/limit_submit.php:29
+msgid "Custom Content"
+msgstr ""
+
+#: frontend-admin/classes/limit_submit.php:30
+msgid "Nothing"
+msgstr ""
+
+#: frontend-admin/classes/limit_submit.php:37
+msgid "Reached Limit Message"
+msgstr ""
+
+#: frontend-admin/classes/limit_submit.php:41
+msgid "You have already submitted this form the maximum amount of times that you are allowed"
+msgstr ""
+
+#: frontend-admin/classes/limit_submit.php:42
+msgid "you have already submitted this form the maximum amount of times that you are allowed"
+msgstr ""
+
+#: frontend-admin/classes/limit_submit.php:51
+msgid "Reached Limit Content"
+msgstr ""
+
+#: frontend-admin/classes/limit_submit.php:67
+#: frontend-admin/classes/limit_submit.php:69
+msgid "Rule Name"
+msgstr ""
+
+#: frontend-admin/classes/limit_submit.php:77
+msgid "Allowed Submissions"
+msgstr ""
+
+#: frontend-admin/classes/limit_submit.php:86
+msgid "Limit For Everyone"
+msgstr ""
+
+#: frontend-admin/classes/limit_submit.php:97
+msgid "Limit By Role"
+msgstr ""
+
+#: frontend-admin/classes/limit_submit.php:112
+#: frontend-admin/classes/limit_submit.php:125
+msgid "Limit By User"
+msgstr ""
+
+#: frontend-admin/classes/limit_submit.php:115
+msgid "Enter a commma seperated list of user ids"
+msgstr ""
+
+#: frontend-admin/classes/limit_submit.php:143
+msgid "Add Limiting Rules"
+msgstr ""
+
+#: frontend-admin/classes/limit_submit.php:148
+msgid "Subscribers"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:23
+msgid "Continue"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:24
+#: frontend-admin/classes/multi_step.php:195
+#: frontend-admin/classes/multi_step.php:196
+#: frontend-admin/widgets/frontend-admin.php:146
+#: frontend-admin/widgets/frontend-admin.php:286
+#: frontend-admin/widgets/frontend-admin.php:287
+msgid "Edit Post"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:25
+#: frontend-admin/classes/multi_step.php:413
+#: frontend-admin/widgets/frontend-admin.php:147
+msgid "New Post"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:26
+#: frontend-admin/widgets/frontend-admin.php:148
+msgid "Edit User"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:27
+#: frontend-admin/classes/multi_step.php:28
+#: frontend-admin/widgets/frontend-admin.php:149
+msgid "New User"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:29
+#: frontend-admin/widgets/frontend-admin.php:154
+msgid "Edit Options"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:37
+msgid "Multi Step Form?"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:39
+msgid "Multi"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:40
+#: frontend-admin/widgets/frontend-admin.php:125
+msgid "Single"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:48
+msgid "Steps Display"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:56
+msgid "Tabs"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:57
+msgid "Counter"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:67
+msgid "Responsive visibility will take effect only on preview or live page, and not while editing in Elementor."
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:75
+msgid "Step Tabs Display"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:83
+#: frontend-admin/classes/multi_step.php:122
+#: frontend-admin/classes/multi_step.php:436
+msgid "Desktop"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:84
+#: frontend-admin/classes/multi_step.php:123
+#: frontend-admin/classes/multi_step.php:437
+msgid "Tablet"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:85
+#: frontend-admin/classes/multi_step.php:124
+#: frontend-admin/classes/multi_step.php:438
+msgid "Mobile"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:96
+msgid "Tabs Position"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:100
+msgid "Top"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:101
+msgid "Side"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:114
+msgid "Step Counter Display"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:136
+msgid "Step Number in Tabs"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:138
+msgid "show"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:139
+msgid "hide"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:151
+msgid "Link to Step in Tabs"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:167
+msgid "Step Action"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:176
+msgid "Step Emails"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:178
+msgid "A comma seperated list of email names to send on completing this step."
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:186
+#: frontend-admin/classes/multi_step.php:229
+#: frontend-admin/classes/style_tab.php:212
+#: frontend-admin/widgets/frontend-admin.php:272
+#: frontend-admin/widgets/frontend-admin.php:321
+msgid "Fields"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:193
+msgid "Step Title"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:209
+#: frontend-admin/classes/multi_step.php:223
+#: frontend-admin/classes/multi_step.php:250
+#: frontend-admin/widgets/frontend-admin.php:300
+#: frontend-admin/widgets/frontend-admin.php:314
+#: frontend-admin/widgets/frontend-admin.php:341
+msgid "ACF Fields"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:228
+#: frontend-admin/widgets/frontend-admin.php:320
+msgid "Field Groups"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:237
+#: frontend-admin/widgets/frontend-admin.php:328
+msgid "ACF Field Groups"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:266
+msgid "Previous Button"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:268
+#: frontend-admin/classes/multi_step.php:269
+msgid "Previous"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:278
+msgid "Next Button"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:280
+#: frontend-admin/classes/multi_step.php:281
+msgid "Next"
+msgstr ""
+
+#: frontend-admin/classes/multi_step.php:408
+msgid "Form Steps"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:24
+#: frontend-admin/widgets/frontend-admin.php:283
+msgid "Form Title"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:35 frontend-admin/classes/style_tab.php:370
+#: frontend-admin/classes/style_tab.php:601
+#: frontend-admin/classes/style_tab.php:1971
+#: frontend-admin/classes/style_tab.php:2342
+msgid "Horizontal Align"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:39 frontend-admin/classes/style_tab.php:374
+#: frontend-admin/classes/style_tab.php:605
+#: frontend-admin/classes/style_tab.php:1975
+#: frontend-admin/classes/style_tab.php:2346
+msgid "Start"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:40 frontend-admin/classes/style_tab.php:375
+#: frontend-admin/classes/style_tab.php:606
+#: frontend-admin/classes/style_tab.php:1649
+#: frontend-admin/classes/style_tab.php:1976
+#: frontend-admin/classes/style_tab.php:2347
+msgid "Center"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:41 frontend-admin/classes/style_tab.php:376
+#: frontend-admin/classes/style_tab.php:607
+#: frontend-admin/classes/style_tab.php:1977
+#: frontend-admin/classes/style_tab.php:2348
+msgid "End"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:53 frontend-admin/classes/style_tab.php:409
+#: frontend-admin/classes/style_tab.php:621
+#: frontend-admin/classes/style_tab.php:792
+#: frontend-admin/classes/style_tab.php:968
+#: frontend-admin/classes/style_tab.php:1152
+#: frontend-admin/classes/style_tab.php:1282
+#: frontend-admin/classes/style_tab.php:1404
+#: frontend-admin/classes/style_tab.php:1666
+#: frontend-admin/classes/style_tab.php:1820
+#: frontend-admin/classes/style_tab.php:2023
+#: frontend-admin/classes/style_tab.php:2124
+#: frontend-admin/classes/style_tab.php:2226
+#: frontend-admin/classes/style_tab.php:2360
+msgid "Typography"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:61 frontend-admin/classes/style_tab.php:120
+#: frontend-admin/classes/style_tab.php:189
+#: frontend-admin/classes/style_tab.php:220
+#: frontend-admin/classes/style_tab.php:481
+#: frontend-admin/classes/style_tab.php:524
+#: frontend-admin/classes/style_tab.php:693
+#: frontend-admin/classes/style_tab.php:736
+#: frontend-admin/classes/style_tab.php:829
+#: frontend-admin/classes/style_tab.php:1319
+#: frontend-admin/classes/style_tab.php:1440
+#: frontend-admin/classes/style_tab.php:1735
+#: frontend-admin/classes/style_tab.php:1767
+#: frontend-admin/classes/style_tab.php:1878
+#: frontend-admin/classes/style_tab.php:2060
+#: frontend-admin/classes/style_tab.php:2161
+#: frontend-admin/classes/style_tab.php:2263
+#: frontend-admin/classes/style_tab.php:2406
+#: frontend-admin/classes/style_tab.php:2448
+msgid "Text Color"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:87
+msgid "Labels"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:95 frontend-admin/classes/style_tab.php:167
+#: frontend-admin/classes/style_tab.php:349
+#: frontend-admin/classes/style_tab.php:580
+#: frontend-admin/classes/style_tab.php:1584
+msgid "Spacing"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:131
+msgid "Mark Color"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:159
+msgid "Instructions"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:233
+msgid "Placeholder Text Color"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:254
+#: frontend-admin/classes/style_tab.php:493
+#: frontend-admin/classes/style_tab.php:536
+#: frontend-admin/classes/style_tab.php:705
+#: frontend-admin/classes/style_tab.php:748
+#: frontend-admin/classes/style_tab.php:841
+#: frontend-admin/classes/style_tab.php:1036
+#: frontend-admin/classes/style_tab.php:1068
+#: frontend-admin/classes/style_tab.php:1220
+#: frontend-admin/classes/style_tab.php:1252
+#: frontend-admin/classes/style_tab.php:1331
+#: frontend-admin/classes/style_tab.php:1452
+#: frontend-admin/classes/style_tab.php:1747
+#: frontend-admin/classes/style_tab.php:1779
+#: frontend-admin/classes/style_tab.php:1890
+#: frontend-admin/classes/style_tab.php:2072
+#: frontend-admin/classes/style_tab.php:2173
+#: frontend-admin/classes/style_tab.php:2275
+#: frontend-admin/classes/style_tab.php:2418
+#: frontend-admin/classes/style_tab.php:2460
+msgid "Background Color"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:270
+#: frontend-admin/classes/style_tab.php:433
+#: frontend-admin/classes/style_tab.php:645
+#: frontend-admin/classes/style_tab.php:809
+#: frontend-admin/classes/style_tab.php:977
+#: frontend-admin/classes/style_tab.php:1161
+#: frontend-admin/classes/style_tab.php:1299
+#: frontend-admin/classes/style_tab.php:1421
+#: frontend-admin/classes/style_tab.php:1683
+#: frontend-admin/classes/style_tab.php:1837
+#: frontend-admin/classes/style_tab.php:2046
+#: frontend-admin/classes/style_tab.php:2148
+#: frontend-admin/classes/style_tab.php:2250
+#: frontend-admin/classes/style_tab.php:2377
+msgid "Padding"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:286
+#: frontend-admin/classes/style_tab.php:547
+#: frontend-admin/classes/style_tab.php:759
+#: frontend-admin/classes/style_tab.php:1790
+#: frontend-admin/classes/style_tab.php:2471
+msgid "Border Color"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:302
+msgid "Border Width"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:318
+#: frontend-admin/classes/style_tab.php:445
+#: frontend-admin/classes/style_tab.php:657
+#: frontend-admin/classes/style_tab.php:862
+#: frontend-admin/classes/style_tab.php:988
+#: frontend-admin/classes/style_tab.php:1172
+#: frontend-admin/classes/style_tab.php:1361
+#: frontend-admin/classes/style_tab.php:1483
+#: frontend-admin/classes/style_tab.php:1704
+#: frontend-admin/classes/style_tab.php:1858
+#: frontend-admin/classes/style_tab.php:2093
+#: frontend-admin/classes/style_tab.php:2194
+#: frontend-admin/classes/style_tab.php:2296
+#: frontend-admin/classes/style_tab.php:2498
+msgid "Border Radius"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:341
+msgid "Submit, Next and Previous Buttons"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:387
+msgid "Next/Previous Align"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:391
+msgid "Default"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:392
+msgid "Start and End"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:474
+#: frontend-admin/classes/style_tab.php:686
+#: frontend-admin/classes/style_tab.php:1017
+#: frontend-admin/classes/style_tab.php:1201
+#: frontend-admin/classes/style_tab.php:1727
+#: frontend-admin/classes/style_tab.php:2399
+msgid "Normal"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:506
+#: frontend-admin/classes/style_tab.php:718
+#: frontend-admin/classes/style_tab.php:854
+#: frontend-admin/classes/style_tab.php:1353
+#: frontend-admin/classes/style_tab.php:1475
+#: frontend-admin/classes/style_tab.php:1696
+#: frontend-admin/classes/style_tab.php:1850
+#: frontend-admin/classes/style_tab.php:2085
+#: frontend-admin/classes/style_tab.php:2186
+#: frontend-admin/classes/style_tab.php:2288
+#: frontend-admin/classes/style_tab.php:2430
+msgid "Border"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:517
+#: frontend-admin/classes/style_tab.php:729
+#: frontend-admin/classes/style_tab.php:1049
+#: frontend-admin/classes/style_tab.php:1233
+#: frontend-admin/classes/style_tab.php:2441
+msgid "Hover"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:569
+msgid "Draft Button"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:783
+msgid "Add New Button"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:893
+msgid "Action Icons"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:901
+msgid "Remove Row"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:909
+#: frontend-admin/classes/style_tab.php:1093
+msgid "Horizontal Position"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:938
+#: frontend-admin/classes/style_tab.php:1122
+msgid "Vertical Position"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1024
+#: frontend-admin/classes/style_tab.php:1056
+#: frontend-admin/classes/style_tab.php:1208
+#: frontend-admin/classes/style_tab.php:1240
+msgid "Icon Color"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1084
+msgid "Add Row"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1273
+msgid "Add Image Button"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1392
+msgid "Modal Button"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1513
+msgid "Steps"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1524
+msgid "Step Tabs"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1559
+msgid "Align"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1564
+#: frontend-admin/classes/style_tab.php:1645
+msgid "Left"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1568
+#: frontend-admin/classes/style_tab.php:1653
+msgid "Right"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1613
+msgid "Space Between"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1641
+msgid "Text Align"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1760
+msgid "Active"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1810
+msgid "Step Counter"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1904
+msgid "Modal Window"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1915
+msgid "Modal Width"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1943
+msgid "Modal Content"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:1992
+msgid "Messages"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:2000
+msgid "Preview Messages"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:2015
+msgid "Success"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:2116
+msgid "Error"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:2218
+msgid "Limit"
+msgstr ""
+
+#: frontend-admin/classes/style_tab.php:2333
+#: frontend-admin/widgets/delete-post.php:98
+msgid "Delete Button"
+msgstr ""
+
+#: frontend-admin/helpers/data_fetch.php:81
+msgid "Post Author"
+msgstr ""
+
+#: frontend-admin/helpers/data_fetch.php:191
+msgid "All Folders"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:46
+msgid "ACF Frontend Form"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:92
+#: frontend-admin/widgets/delete-post.php:87
+msgid "Only Logged In Users"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:93
+#: frontend-admin/widgets/delete-post.php:88
+msgid "Only Logged Out"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:94
+#: frontend-admin/widgets/delete-post.php:89
+msgid "All Users"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:109
+msgid "Multi Step"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:118
+msgid "<p><a target=\"_blank\" href=\"https://www.frontendform.com/\"><b>Go pro</b></a> to unlock multi step forms.</p>"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:140
+msgid "Actions"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:150
+msgid "Edit Term"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:156
+msgid "Edit Product"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:157
+msgid "New Product"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:167
+msgid "Main Action"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:184
+msgid "<p><a target=\"_blank\" href=\"https://www.frontendform.com/\"><b>Go pro</b></a> to unlock more actions.</p>"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:193
+msgid "Payment"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:198
+#: fafe-settings/admin-pages/stripe/settings.php:33
+#: fafe-settings/module.php:52
+msgid "Stripe (BETA)"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:209
+msgid "Submit Actions"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:225
+msgid "Redirect After Submit"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:229
+msgid "Reload Current Page/Post"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:230
+#: frontend-admin/widgets/frontend-admin.php:239
+msgid "Custom Url"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:231
+msgid "New Post Url"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:241
+msgid "Enter Url Here"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:254
+msgid "Submit Message"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:256
+#: frontend-admin/widgets/frontend-admin.php:257
+msgid "Your post has been updated"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:319
+msgid "Default Field Groups"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:355
+msgid "Exclude Specific Fields"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:372
+msgid "Submit Button Text"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:375
+#: frontend-admin/widgets/frontend-admin.php:376
+msgid "Update"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:386
+msgid "Submit Button Description"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:388
+msgid "All done?"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:411
+#: frontend-admin/widgets/delete-post.php:126
+msgid "Permissions"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:420
+#: frontend-admin/widgets/delete-post.php:135
+msgid "Who Can See This..."
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:431
+#: frontend-admin/widgets/delete-post.php:146
+msgid "Select By Role"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:448
+#: frontend-admin/widgets/frontend-admin.php:462
+#: frontend-admin/widgets/delete-post.php:163
+#: frontend-admin/widgets/delete-post.php:177
+msgid "Select By User"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:452
+#: frontend-admin/widgets/delete-post.php:167
+msgid "Enter the a comma-seperated list of user ids"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:483
+#: frontend-admin/widgets/delete-post.php:198
+msgid "Dynamic Selection"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:497
+msgid "WP uploader"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:510
+msgid "<h3>Media Privacy</h3>"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:523
+msgid "Limit Submissions"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:533
+msgid "<p><a target=\"_blank\" href=\"https://www.frontendform.com/\"><b>Go pro</b></a> to unlock limit submissions.</p>"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:548
+msgid "Display Options"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:556
+msgid "Show in Modal"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:566
+msgid "Modal Button Text"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:568
+#: frontend-admin/widgets/frontend-admin.php:569
+msgid "Edit"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:582
+msgid "Show Field Labels"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:597
+msgid "Label Position"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:600
+msgid "Above"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:601
+msgid "Inline"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:612
+msgid "Required Mark"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:630
+msgid "Instruction Position"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:633
+msgid "Above Field"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:634
+msgid "Below Field"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:645
+msgid "Field Seperator"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:667
+#: frontend-admin/widgets/delete-post.php:218
+msgid "Styles"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:676
+#: frontend-admin/widgets/delete-post.php:227
+msgid "<p><a target=\"_blank\" href=\"https://www.frontendform.com/\"><b>Go Pro</b></a> to unlock styles.</p>"
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:1092
+msgid "Validation failed."
+msgstr ""
+
+#: frontend-admin/widgets/frontend-admin.php:1093
+msgid "Limit Reached."
+msgstr ""
+
+#: frontend-admin/widgets/delete-post.php:45
+msgid "Delete Post Button"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor
+#. translators: 1: Plugin name 2: Advanced Custom Fields
+
+#: frontend-admin.php:221 frontend-admin.php:244
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: frontend-admin.php:223 frontend-admin.php:299
+msgid "Elementor"
+msgstr ""
+
+#: frontend-admin.php:246
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+
+#: frontend-admin.php:297 frontend-admin.php:321
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: frontend-admin.php:298 frontend-admin.php:322
+msgid "Frontend Admin"
+msgstr ""
+
+#: frontend-admin.php:323
+msgid "PHP"
+msgstr ""
+
+#: frontend-admin.php:334
+msgid "Video Tutorials"
+msgstr ""
+
+#: acf-field-settings/module.php:54
+msgid "Show only on frontend"
+msgstr ""
+
+#: acf-field-settings/module.php:66
+msgid "Set as product price"
+msgstr ""
+
+#: acf-field-settings/module.php:73
+msgid "Set as sale price"
+msgstr ""
+
+#: acf-field-settings/module.php:83
+msgid "Set as site title"
+msgstr ""
+
+#: acf-field-settings/module.php:90
+msgid "Set as site tagline"
+msgstr ""
+
+#: acf-field-settings/module.php:98
+msgid "Set as post title"
+msgstr ""
+
+#: acf-field-settings/module.php:105
+msgid "Set as post slug"
+msgstr ""
+
+#: acf-field-settings/module.php:113
+msgid "Set as username"
+msgstr ""
+
+#: acf-field-settings/module.php:120 acf-field-settings/module.php:158
+#: acf-field-settings/module.php:191
+msgid "Read only"
+msgstr ""
+
+#: acf-field-settings/module.php:131
+msgid "Set as user password"
+msgstr ""
+
+#: acf-field-settings/module.php:138
+msgid "Set as password confirm"
+msgstr ""
+
+#: acf-field-settings/module.php:151
+msgid "Set as user email"
+msgstr ""
+
+#: acf-field-settings/module.php:170
+msgid "Set as post content"
+msgstr ""
+
+#: acf-field-settings/module.php:183
+msgid "Set as post excerpt"
+msgstr ""
+
+#: acf-field-settings/module.php:201
+msgid "Happy Files Folder"
+msgstr ""
+
+#: acf-field-settings/module.php:202
+msgid "Limit the media library choice to specific Happy Files Categories"
+msgstr ""
+
+#: acf-field-settings/module.php:214
+msgid "Set as product gallery"
+msgstr ""
+
+#: acf-field-settings/module.php:225
+msgid "Set as site logo"
+msgstr ""
+
+#: acf-field-settings/module.php:233
+msgid "Set as post image"
+msgstr ""
+
+#: acf-field-settings/module.php:639
+msgid "The username contains illegal characters. Please enter only latin letters, numbers, @, -, . and _"
+msgstr ""
+
+#: acf-field-settings/module.php:654 acf-field-settings/module.php:661
+msgid "The passwords do not match"
+msgstr ""
+
+#: fafe-settings/admin-pages/stripe/settings.php:40
+msgid "Activate"
+msgstr ""
+
+#: fafe-settings/admin-pages/stripe/settings.php:47
+msgid "Use Live Keys"
+msgstr ""
+
+#: fafe-settings/admin-pages/stripe/settings.php:55
+msgid "Live Stripe Publishable Key"
+msgstr ""
+
+#: fafe-settings/admin-pages/stripe/settings.php:64
+msgid "Live Stripe Secret Key"
+msgstr ""
+
+#: fafe-settings/admin-pages/stripe/settings.php:73
+msgid "Test Stripe Publishable Key"
+msgstr ""
+
+#: fafe-settings/admin-pages/stripe/settings.php:82
+msgid "Test Stripe Secret Key\t"
+msgstr ""
+
+#: fafe-settings/module.php:50
+msgid "Welcome"
+msgstr ""
+
+#: fafe-settings/module.php:61
+msgid "Hello and welcome"
+msgstr ""
+
+#: fafe-settings/module.php:62
+msgid "If this is your first time using ACF Frontend, we recommend you watch Paul Charlton from WPTuts beautifully explain how to use it."
+msgstr ""
+
+#: fafe-settings/module.php:63
+msgid "Here is a video where our lead developer and head of support, explains the basic usage of ACF Frontend."
+msgstr ""
+
+#: fafe-settings/module.php:65
+msgid "If you have any questions at all please feel welcome to email shabti at"
+msgstr ""
+
+#: fafe-settings/module.php:65
+msgid "or on whatsapp"
+msgstr ""
+
+#: hide-admin/module.php:48
+msgid "Hide WordPress Admin Area"
+msgstr ""
+
+#: hide-admin/module.php:51
+msgid "Hide Admin Area"
+msgstr ""
+
+#: local-avatar/module.php:42
+msgid "Local Gravatar"
+msgstr ""
+
+#: uploads-privacy/module.php:26
+msgid "Media Uploads Privacy"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "ACF Frontend Form Element  Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/frontend-admin/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "An ACF and Elementor extension that allows you to easily display ACF frontend forms on your site so your clients can easily edit the content by themselves from the frontend."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Shabti Kaplan"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://kaplanwebdev.com/"
+msgstr ""
